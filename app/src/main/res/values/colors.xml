@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#558B2F</color>
+    <color name="colorPrimaryDark">#33691E</color>
+    <color name="colorAccent">#FAFAFA</color>
+    <color name="colorBackground">#8BC34A</color>
+    <color name="cellDark">#33691E</color>
+    <color name="cellLight">#F1F8E9</color>
+    <color name="trans">#00000000 </color>.
+</resources>
